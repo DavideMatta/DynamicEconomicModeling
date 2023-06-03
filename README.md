@@ -1,0 +1,2 @@
+# DynamicEconomicModeling
+University assignments
